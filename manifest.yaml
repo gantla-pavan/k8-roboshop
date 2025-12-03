@@ -28,4 +28,4 @@ spec:
     spec:
       containers:
       - name: mongodb
-        image: gantlapavan/mogodb:v1
+        image: gantlapavan/mongodb:v1
